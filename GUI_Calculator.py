@@ -1,5 +1,5 @@
 # Python Final Project
-# Name - Myo Mg Mg, Nickname - Chocolate, Date - 1/9/2022
+# Name - Myo Mg Mg,Date - 1/9/2022
 
 from tkinter import *
 
